@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vaishnav2299
 - 👀 I’m interested in ... Machine Learning,Deep Learning ,Renforcement Learning, Data Science, AI And Aeronautical Engineering
-- 🌱 I’m currently learning ...Renforcement Learning, Autonomous Navigation
 - 💞️ I’m looking to collaborate on ... Autonomous Navigation Projects
 - 📫 How to reach me ...rockyvaish99@gmail.com
 
